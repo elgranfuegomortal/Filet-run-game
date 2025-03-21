@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #fff3e0;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
